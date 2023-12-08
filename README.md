@@ -10,6 +10,7 @@ A webhosting platform building using Django Web Framework, Docker, Jenkins which
 - Register upto 5 subdomains of user's choice
 - 1 MySQL database auto provisioned for each user's at the time of Email verification with limited permissions.
 - Upload website's file to each subdomain owned by the user.
+- Incident(s) noticification to admin.
 
 ## Missing Files
 

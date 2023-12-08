@@ -1,0 +1,24 @@
+# Django 
+WEBSITE_FQDN="www.example.com"
+DJANGO_SECRET_KEY="some super complex string"
+DJANGO_DEBUG="False"
+
+# DATABASE CREDIENTIALS
+MYSQL_DATABASE_NAME="some database name"
+MYSQL_DATABASE_USER="some database user name "
+MYSQL_DATABASE_PASSWORD="super secret password"
+MYSQL_DATABASE_HOST="localhost"
+MYSQL_DATABASE_PORT="3306"
+
+# EMAIL CREDIENTIALS
+EMAIL_HOST_URL="smtp.gmail.com"
+EMAIL_PORT="587"
+EMAIL_HOST_USER="complete email address"
+EMAIL_HOST_PASSWORD="super secret password or token"
+EMAIL_USE_TLS="True"
+
+# Jenkins CREDIENTIALS
+JENKINS_FQDN="jenkins.example.com"
+JENKINS_USERNAME="jenkins username"
+JENKINS_PASSWORD="jenkins some super password"
+JENKINS_SECRET_TOKEN="secure super secret string"

@@ -7,7 +7,7 @@ A webhosting platform building using Django Web Framework, Docker, Jenkins which
 ## Features
 
 - User Registeration / Login
-- Email Validation
+- Email Verification 
 - Password Reset
 - Register upto 5 subdomains of user's choice
 - 1 MySQL database auto provisioned for each user's at the time of Email verification with limited permissions.

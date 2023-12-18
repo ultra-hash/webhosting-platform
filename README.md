@@ -14,6 +14,9 @@ A webhosting platform building using Django Web Framework, Docker, Jenkins which
 - Upload website's file to each subdomain owned by the user.
 - Incident(s) notification to admin.
 
+## white board - plan/layout
+![image](./plan&layout.png)
+
 ## Missing Files / Infrastructure
 
 - Jenkins job(s) specific shell scripts
